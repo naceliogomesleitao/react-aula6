@@ -18,7 +18,7 @@ const Home = () => {
   return (
     <>
       <section className="overflow-hidden px-5">
-        <h1>Lista de Produtos</h1>
+        <h1>Lista Produtos</h1>
 
         <ul className="grid list-none p-0">
           {
